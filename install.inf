@@ -1,0 +1,11 @@
+[info]
+title=Formatter for Lua
+desc=Formats Lua code
+type=cudatext-plugin
+subdir=cuda_fmt_lua
+homepage=https://github.com/CudaText-addons/cuda_fmt_lua
+
+[fmt1]
+caption=Lua Format
+method=do_format
+lexers=Lua
