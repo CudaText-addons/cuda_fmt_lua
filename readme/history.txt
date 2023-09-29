@@ -1,7 +1,9 @@
+2023.09.28
+- fix: tab_size from current editor was not considered
 
 2019.07.14
-+ updated lua_format engine
-- fix formatting of passive editors, now used fixed tab size=4
++ add: updated lua_format engine
+- fix: formatting of passive editors, now used fixed tab size=4
 
 2019.07.10
 initial version
